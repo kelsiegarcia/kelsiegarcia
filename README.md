@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/kelsiegarcia/kelsiegarcia/main/_%20(1).gif" alt="Your GIF Description">
+    <img src="https://raw.githubusercontent.com/kelsiegarcia/kelsiegarcia/main/_%20(1).gif" alt="pink flowers moving in breeze from pinterest">
 </p>
 
 <h2 align="center">
